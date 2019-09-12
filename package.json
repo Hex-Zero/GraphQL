@@ -1,7 +1,7 @@
 {
   "name": "hex-zero",
   "private": true,
-  "description": "Gatsby-Template",
+  "description": "qraphql",
   "version": "0.1.0",
   "author": "Hex",
   "dependencies": {
@@ -40,9 +40,5 @@
     "start": "npm run develop",
     "serve": "gatsby serve",
     "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing \""
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/gatsbyjs/gatsby-starter-default"
   }
 }
