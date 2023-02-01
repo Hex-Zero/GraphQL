@@ -8,6 +8,6 @@
     "express-graphql": "^0.9.0",
     "graphql": "^14.5.4",
     "lodash": "^4.17.21",
-    "mongoose": "^5.7.5"
+    "mongoose": "^5.13.15"
   }
 }
